@@ -1,0 +1,7 @@
+/Users/jamisonproctor/Documents/dev/myFirstAzureWebApp/bin/Release/net7.0/publish/myFirstAzureWebApp
+/Users/jamisonproctor/Documents/dev/myFirstAzureWebApp/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/jamisonproctor/Documents/dev/myFirstAzureWebApp/bin/Release/net7.0/publish/appsettings.json
+/Users/jamisonproctor/Documents/dev/myFirstAzureWebApp/bin/Release/net7.0/publish/myFirstAzureWebApp.dll
+/Users/jamisonproctor/Documents/dev/myFirstAzureWebApp/bin/Release/net7.0/publish/myFirstAzureWebApp.deps.json
+/Users/jamisonproctor/Documents/dev/myFirstAzureWebApp/bin/Release/net7.0/publish/myFirstAzureWebApp.runtimeconfig.json
+/Users/jamisonproctor/Documents/dev/myFirstAzureWebApp/bin/Release/net7.0/publish/myFirstAzureWebApp.pdb

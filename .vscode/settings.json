@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net7.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e85cbfe4-b3e8-4bd7-8a81-28ed38987f2b/resourceGroups/jamisonProctor-myFirstAzureWebApp/providers/Microsoft.Web/sites/jamisonProctor-myFirstAzureWebApp"
+}
